@@ -90,10 +90,3 @@ A fully functional, scalable web platform enabling local leather vendors to digi
 - Follow coding standards and document changes.
 - Report issues via GitHub Issues.
 
-## License
-
-MIT License - feel free to use, modify, and distribute.
-
----
-
-# 
